@@ -23,12 +23,12 @@ body {
   height: auto;
 }
 button {
-    padding: 20px 0px;
+    padding: 16px;
     border: none;
 }
 
 .button {
-  padding: 20px 215px;
+  padding: 20px 223px;
   background: linear-gradient(to right, #ffcc00, #4CAF50);
   color: white;
   border: none;
